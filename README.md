@@ -3,30 +3,45 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"><br><br>
 
 ## About Me
-I graduated from Florida International University with a degree in Computer Science. I have developed a solid background in software development, particularly in Java, C, and Python. I am passionate about building innovative solutions and constantly learning new technologies.<br>
+I graduated from Florida International University with a degree in Computer Science. I have developed a solid background in software development, particularly in Java, C, and Python. I am passionate about building innovative solutions and constantly learning new technologies.
+<br>
 
 ## Key Projects
-* **JanitorProject**: 
-* **Inclusifi**: 
-* **LoLTeamDrafter**: 
+* **JanitorProject** (Jul 2024 - Current): [![My Skills](https://skillicons.dev/icons?i=unity,cs,git,github)](https://skillicons.dev)
+  * A third-person rogue-like shooter game developed in Unity.
+  * Still in the early stages, planning has been mostly completed.
+  * **Skills Using**: Unity, C#, Git, GitHub
+* **LoLTeamDrafter** (Mar 2024 - Apr 2024) [![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
+  * Spearheaded the conceptualization and development of the AI project, focusing on creating the most effective team compositions for beginners in the game League of Legends.
+  * Played a pivotal role in data preprocessing and cleaning to ensure high data quality for model training, resulting in improved model performance and accuracy.
+  * Actively contributed to the refinement and optimization of the AI model architecture, leveraging pandas (for data manipulation and analysis) and numpy (python module that allows you to compute and manipulate multidimensional and single-dimensional array).
+  * **Skills Used**: Python, Pandas, Numpy, TensorFlow, Google Collab
+* **Inclusifi** (Sep 2023) [![My Skills](https://skillicons.dev/icons?i=py,ts,react,git,github)](https://skillicons.dev)
+  * Collaborated within a 4-member team in the development of "Inclusifi," a financial tool for budget planning and credit understanding, created using TypeScript with Python for the back-end.
+  * Took ownership of designing and implementing the login screen and the dashboard components of the project.
+  * Utilized OpenAI to enhance the tool’s capabilities, showcasing adaptability and integration of cutting-edge technologies.
+  * **Skills Used**: Python, TypeScript, React, Git, GitHub
+<br>
 
 ## Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,cs,mysql,arduino,autocad,blender,discord,github,matlab,neovim,notion,ps,vscode)](https://skillicons.dev)<br>
-* **Languages**: Java, C, Python, C#
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,cs,html,css,js,mysql,arduino,autocad,blender,discord,github,matlab,ps)](https://skillicons.dev)<br>
+* **Languages**: Java, C, Python, C#, HTML, CSS, JavaScript
 * **Database**: MySQL
-* **Tools & Platforms**: Arduino, AutoCAD, Blender, Discord, Excel, GitHub, MATLAB, Neovim, Notion, Photoshop, Visual Studio Code<br>
+* **Tools & Platforms**: Arduino, AutoCAD, Blender, Discord, Excel, GitHub, MATLAB, Photoshop
+<br>
 
 ## What I'm Looking For
 I am currently seeking job opportunities in:
 * **Software Development**
 * **Artificial Intelligence**
-* **Data Analysis**<br>
+* **Data Analysis**
+<br>
 
 ## Socials
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguelatejada/) **LinkedIn**: [https://www.linkedin.com/in/miguelatejada/](https://www.linkedin.com/in/miguelatejada/)<br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguelatejada/) **LinkedIn**: [https://www.linkedin.com/in/miguelatejada/](https://www.linkedin.com/in/miguelatejada/)
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif"><br><br>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" class="center"><br>
 <!--
 **Moogule/Moogule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
