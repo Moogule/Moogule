@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Tejada!  👋
 
-<img src="https://github.com/user-attachments/assets/25143a85-46e2-4724-981b-775f47f2da46"><br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"><br><br>
 
 ## About Me
 I graduated from Florida International University with a degree in Computer Science. I have developed a solid background in software development, particularly in Java, C, and Python. I am passionate about building innovative solutions and constantly learning new technologies.<br>
